@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button } from '@material-ui/core';
-import { auth, provider } from './firebase';
-import Datcord from './images/datcord.png';
+import { auth, provider } from '../firebase';
+import Datcord from '../images/datcord.png';
 import './Login.scss'
 
 function Login() {
